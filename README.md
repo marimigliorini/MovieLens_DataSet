@@ -4,6 +4,6 @@ Análise exploratória do dataset de filmes da Movie Lens de modo a resolver os 
 
 Datasets utilizados: 
 
-* [DataSet de filmes](https://raw.githubusercontent.com/alura-cursos/introducao-a-data-science/master/aula0/ml-latest-small/movies.csv")
+* [Dataset de filmes](https://raw.githubusercontent.com/alura-cursos/introducao-a-data-science/master/aula0/ml-latest-small/movies.csv")
 
-* [DataSet de avaliações](https://github.com/alura-cursos/introducao-a-data-science/blob/master/aula0/ml-latest-small/ratings.csv?raw=true")
+* [Dataset de avaliações](https://github.com/alura-cursos/introducao-a-data-science/blob/master/aula0/ml-latest-small/ratings.csv?raw=true")
